@@ -47,4 +47,4 @@ Credenciales del admin temporal:
 - Usuario: admin
 - Contraseña: admin
 
-#Muchas gracias :)
+Muchas gracias :)
