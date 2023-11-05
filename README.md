@@ -40,9 +40,11 @@ Creadenciales de votador para testear
 - ID: 21241523
 - contraseña: 8CCADFqy
 
-- Y para el admin este es el link http://localhost/votaciones/admin/index.php
+- -Y para el admin este es el link http://localhost/votaciones/admin/index.php
 
 Credenciales del admin temporal:
 
 - Usuario: admin
 - Contraseña: admin
+
+#Muchas gracias :)
